@@ -1,0 +1,5 @@
+#############   Examples   #############
+# eg1:  ip|@|port|@|username|@|password
+# eg2:  ip|@|port
+# eg3:  ip
+192.168.108.113|@|22|@|root|@|root
